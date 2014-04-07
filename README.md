@@ -16,3 +16,4 @@ Po raz pierwszy przykład ten został opublikowany w 1974r. w pracy ***Programmi
 ***Z tego wynika, że zaczęłam nietypowo:***  
  1. najpierw przepisałam program w języku C++ liczący liczbę groszków w strąkach,  
  2. napisałam prosty program w języku C++ obliczający sumę i iloczyn dwóch liczb naturalnych. 
+~~coś mi się pomyliło~~
