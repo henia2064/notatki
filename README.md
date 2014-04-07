@@ -20,6 +20,6 @@ Po raz pierwszy przykład ten został opublikowany w 1974r. w pracy ***Programmi
 ***************************************************************************************************
 ~~Coś mi się pomyliło?~~ Nie! Chciałam sprawdzić czy działa skreślanie tekstu, które podpatrzyłam u Danuśki :).  
 A teraz czy umiem zrobić tabelkę?  
-| pierwsza kolumna | druga kolumna | trzecia kolumna |   
-| ---------------- |:-------------:|---------------|
+
+
 nie wyszło:(
