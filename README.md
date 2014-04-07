@@ -15,5 +15,11 @@ Po raz pierwszy przykład ten został opublikowany w 1974r. w pracy ***Programmi
 
 ***Z tego wynika, że zaczęłam nietypowo:***  
  1. najpierw przepisałam program w języku C++ liczący liczbę groszków w strąkach,  
- 2. napisałam prosty program w języku C++ obliczający sumę i iloczyn dwóch liczb naturalnych. 
-~~coś mi się pomyliło~~
+ 2. napisałam prosty program w języku C++ obliczający sumę i iloczyn dwóch liczb naturalnych.
+
+***************************************************************************************************
+~~Coś mi się pomyliło?~~ Nie! Chciałam sprawdzić czy działa skreślanie tekstu, które podpatrzyłam u Danuśki :).  
+A teraz czy umiem zrobić tabelkę?  
+|pierwsza kolumna|druga kolumna|trzecia kolumna|   
+|----------------|:-------------:|---------------|
+nie wyszło:(
