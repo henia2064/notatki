@@ -26,3 +26,4 @@ A teraz czy umiem zrobić tabelkę?
 |-------------------|-------------------|
 |alkeny |alkeny są nienasycone
 
+Wyszło :)
