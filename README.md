@@ -22,8 +22,8 @@ Po raz pierwszy przykład ten został opublikowany w 1974r. w pracy ***Programmi
 A teraz czy umiem zrobić tabelkę?  
 | kolumna1 | ko,umna1 |
 |----------|----------|
-| cos | os2 
-
+| cos      |     os2 
+  
 nie wyszło:(
 
 | Cud | Data | Budowniczy | Zniszczone | Powód zniszczenia |
