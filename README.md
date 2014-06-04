@@ -36,3 +36,10 @@ nie wyszło:(
 | Mauzoleum w Halikarnasie    |  353 p.n.e.    |     Grecy       |     1494       |      trzęsienie ziemi             |
 | Kolos Rodyjski    |   281 p.n.e.   |      Grecy      |      224 p.n.e.      |          trzęsienie ziemi         |
 |  Latarnia morska na Faros   |  280-279 p.n.e.    |     tolemeusze, Grecy       |    1303-1480 n.e.        |         trzęsienie ziemi 
+
+
+
+| kolumna1 | ko,umna1 |
+|----------|----------| 
+| cos | os2
+
