@@ -1,9 +1,5 @@
 ##Początki programowania  
 
-|kolumna 1|kolumna 2|
-|---------|---------|
-| alkany gyggyvygvyygvy | alkeny |
-
 Trudną sztukę programowania rozpoczyna się najczęściej od poznania prostego programu, którego jedynym celem jest wypisanie na standardowym wyjściu napisu ***"Hello World!"***.  
 ```
 main()      
@@ -26,21 +22,7 @@ Po raz pierwszy przykład ten został opublikowany w 1974r. w pracy ***Programmi
 ~~Coś mi się pomyliło?~~ Nie! Chciałam sprawdzić czy działa skreślanie tekstu, które podpatrzyłam u Danuśki :).  
 A teraz czy umiem zrobić tabelkę?  
 
-nie wyszło:(
-
-| Cud | Data | Budowniczy | Zniszczone | Powód zniszczenia |
-|-----|------|------------|:----------:|-------------------|
-| Piramida Cheopsa   |   2575 p.n.e.   |    Egipcjanie    |    ciągle istnieje       |      brak         |
-| Wiszące ogrody Semiramidy   |   600 p.n.e.   |   Babilończycy     |    I wiek p.n.e.        |      najazd Gotów         |
-| Świątynia Artemidy w Efezie   |   560 p.n.e   |     Grecy, Lidyjczycy       |      III wiek n.e.      |      trzęsienie ziemi             |
-| Posąg Zeusa w Olimpii	    |   435-430 p.n.e.   |     Grecy       |     V – VI w n.e.       |    pożar         |
-| Mauzoleum w Halikarnasie    |  353 p.n.e.    |     Grecy       |     1494       |      trzęsienie ziemi             |
-| Kolos Rodyjski    |   281 p.n.e.   |      Grecy      |      224 p.n.e.      |          trzęsienie ziemi         |
-|  Latarnia morska na Faros   |  280-279 p.n.e.    |     tolemeusze, Grecy       |    1303-1480 n.e.        |         trzęsienie ziemi 
-
-
-
-| kolumna1 | ko,umna1 |
-|----------|----------| 
-| cos | os2
+|kolumna 1|kolumna 2|
+|-------------------|-------------------|
+|alkeny |alkeny są nienasycone
 
