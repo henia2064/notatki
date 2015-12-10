@@ -22,7 +22,7 @@ Po raz pierwszy przykład ten został opublikowany w 1974r. w pracy ***Programmi
 ~~Coś mi się pomyliło?~~ Nie! Chciałam sprawdzić czy działa skreślanie tekstu, które podpatrzyłam u Danuśki :).  
 A teraz czy umiem zrobić tabelkę?  
 
-|kolumna 1|kolumna 2|kolumna 2|kolumna 3|
+|kolumna 1|kolumna 2|kolumna 2|kolumna 3|  
 |-------------------|---------|-------|
 |alkeny |alkeny są nienasycone
 
