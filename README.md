@@ -23,7 +23,7 @@ Po raz pierwszy przykład ten został opublikowany w 1974r. w pracy ***Programmi
 A teraz czy umiem zrobić tabelkę?  
 
 |kolumna 1|kolumna 2|
-|-------------------|-------------------|
+|-------------------|-------------------|-------|
 |alkeny |alkeny są nienasycone
 
 Wyszło :)
