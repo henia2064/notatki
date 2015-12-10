@@ -24,6 +24,6 @@ A teraz czy umiem zrobić tabelkę?
 
 |kolumna 1|kolumna 2|kolumna 3|  
 |---------|---------|-------|  
-|alkany   |alkeny   |
+|alkany   |alkeny   |alkiny
 
 Wyszło :)
