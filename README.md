@@ -19,7 +19,9 @@ Po raz pierwszy przykład ten został opublikowany w 1974r. w pracy ***Programmi
  2. napisałam prosty program w języku C++ obliczający sumę i iloczyn dwóch liczb naturalnych.
 
 ***************************************************************************************************
-~~Coś mi się pomyliło?~~ Nie! Chciałam sprawdzić czy działa skreślanie tekstu, które podpatrzyłam u Danuśki :).  
+~~Coś mi się pomyliło?~~ Nie! 
+>
+Chciałam sprawdzić czy działa skreślanie tekstu, które podpatrzyłam u Danuśki :).  
 A teraz czy umiem zrobić tabelkę?  
 
 |kolumna 1|kolumna 2|kolumna 3|  
